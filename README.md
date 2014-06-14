@@ -1,4 +1,0 @@
-primero
-=======
-
-Primer repositorio
